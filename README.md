@@ -24,6 +24,11 @@
 
 <a target="_blank" href="https://medium.com/simform-engineering/manage-dark-mode-in-react-native-application-2a04ba7e76d0"><img src="https://miro.medium.com/v2/1*k2SUb6RMPrzyj4VL7s-TbA.gif" style="width: 200px; height:100px;" alt="Recent Article 0"></img></a> <br>
 
+<a target="_blank" href="https://medium.com/simform-engineering/how-to-build-an-ai-based-app-with-react-native-b186f88a4a0f"><img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*UIf_udOZaHL17IvFeS3Ukw.png" style="width: 200px; height:100px;" alt="Recent Article 1"></img></a> <br>
+
+<a target="_blank" href="https://medium.com/@DhruvHarsora/deep-dive-into-react-natives-new-architecture-jsi-turbomodules-fabric-yoga-234bbdf853b4"><img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*XKv_OvdMmT7fU6BRbqnqoA.png" style="width: 200px; height:100px;" alt="Recent Article 2"></img></a> <br>
+
+
 ### **📖 Open Source**
 
 <a target="_blank" href="https://www.npmjs.com/package/react-native-swippable-modal?activeTab=readme"><img src="https://github.com/DhruvHarsora-FullStackDeveloper/react-native-swippable-modal/blob/main/assets/react-native-swippable-modal-banner.png" style="width: 200px; height:100px;" alt="Swippable Modal"></img></a> <br>
